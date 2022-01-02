@@ -1,6 +1,6 @@
 ### Hey, I'm Abishek Theagarajan
 
-```php
+```r
 const abishek = {
   code: [Javascript, HTML, CSS, Python],
   tools: [
