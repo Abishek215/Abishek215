@@ -10,7 +10,8 @@
 
 ### A little more about me...
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"> 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
 ```javascript
 const abishek = {
   code: [C, C++, Python, Javascript, HTML, CSS],
