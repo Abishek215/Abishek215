@@ -1,4 +1,4 @@
-### Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Abishek Theagarajan
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Abishek Theagarajan
 
 <a href="https://www.linkedin.com/in/abishek-theagarajan/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />
@@ -23,6 +23,8 @@ const abishek = {
   ],
 };
 ```
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
