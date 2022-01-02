@@ -1,11 +1,19 @@
 ### Heyyy SIRI I'm Abishek Theagarajan
 
-```php
+```javascript
 const abishek = {
-
-code: [Javascript, HTML, CSS, Python],
-tools: [React, Redux, Node, Styled-Components, NumPy, Pandas, Excel, Tableau],
-}
+  code: [Javascript, HTML, CSS, Python],
+  tools: [
+    React,
+    Redux,
+    Node,
+    Styled - Components,
+    NumPy,
+    Pandas,
+    Excel,
+    Tableau,
+  ],
+};
 ```
 
 <!-- - 🤔 I’m looking for help with ...
