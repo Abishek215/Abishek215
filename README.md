@@ -1,6 +1,6 @@
-### Heyyy SIRI I'm Abishek Theagarajan
+### Hey, I'm Abishek Theagarajan
 
-```javascript
+```php
 const abishek = {
   code: [Javascript, HTML, CSS, Python],
   tools: [
