@@ -50,7 +50,7 @@ const abishek = {
 
 <h3>Trophy 🏆</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abishek215&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abishek215&theme=monokai&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
