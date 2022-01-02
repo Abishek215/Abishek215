@@ -24,7 +24,7 @@ const abishek = {
 
 [![Abishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abishek215&show_icons=true&theme=radical)](https://github.com/Abishek215/github-readme-stats)
 
-<h3>Tech Space 🤍</h3>
+<!-- <h3>Tech Space 🤍</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -35,7 +35,18 @@ const abishek = {
   <img alt="VScode" src="https://img.shields.io/badge/-Vscode-00B2FF?style=flat-square&logo=visualstudiocode&white" />
   <img alt="IOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" />
   <img alt="AppleMusic" src="https://img.shields.io/badge/-Applemusic-F16061?style=flat-square&logo=applemusic&logoColor=white" />
-</p>
+</p> -->
+
+**languages and tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <h3>Trophy 🏆</h3>
 
