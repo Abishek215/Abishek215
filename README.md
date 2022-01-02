@@ -8,6 +8,8 @@
 
 <br />
 
+### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50"> A little more about me...
+
 ```javascript
 const abishek = {
   code: [C, C++, Python, Javascript, HTML, CSS],
@@ -24,7 +26,7 @@ const abishek = {
 };
 ```
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
+  <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" /> -->
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
