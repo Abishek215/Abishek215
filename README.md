@@ -1,6 +1,6 @@
 ### Hey, I'm Abishek Theagarajan
 
-```r
+```javascript
 const abishek = {
   code: [Javascript, HTML, CSS, Python],
   tools: [
@@ -22,13 +22,13 @@ const abishek = {
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Kabilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abishek215&show_icons=true&theme=radical)](https://github.com/Abishek215/github-readme-stats)
+[![Abishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abishek215&show_icons=true&theme=radical)](https://github.com/Abishek215/github-readme-stats)
 
 <h3>Tech Space 🤍</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-4EA94B?style=flat-square&logo=git&logoColor=white" /> />
+  <img alt="git" src="https://img.shields.io/badge/-Git-4EA94B?style=flat-square&logo=git&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="Safari" src="https://img.shields.io/badge/-Safari-02569B?style=flat-square&logo=safari&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
@@ -40,3 +40,9 @@ const abishek = {
 <h3>Trophy 🏆</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abishek215&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+<img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Abishek215'>
+</details>
