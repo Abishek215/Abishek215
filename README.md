@@ -22,6 +22,7 @@ const abishek = {
     Styled - Components,
     NumPy,
     Pandas,
+    Matplotlib,
     Excel,
     Tableau,
   ],
