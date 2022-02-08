@@ -78,4 +78,5 @@ const abishek = {
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
 <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Abishek215'>
+  <codersrank-timeline type="technologies" username="Abishek215"></codersrank-timeline>
 </details>
